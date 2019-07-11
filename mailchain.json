@@ -1,0 +1,15 @@
+{
+    "version": "0.0.20",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mailchain/mailchain/releases/download/v0.0.20/mailchain-v0.0.20-Windows-64bit.zip",
+            "bin": [
+                "mailchain.exe"
+            ],
+            "hash": "df8e7586f9b14d36eee524e6d96c261731a0e633242341fbaba2bc5caf22543e"
+        }
+    },
+    "homepage": "https://mailchain.xyz",
+    "license": "MIT",
+    "description": "Secure, email-like messaging for blockchain addresses and accounts"
+}
