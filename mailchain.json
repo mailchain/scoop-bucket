@@ -1,12 +1,12 @@
 {
-    "version": "0.0.38",
+    "version": "0.0.39",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mailchain/mailchain/releases/download/v0.0.38/mailchain-v0.0.38-Windows-64bit.zip",
+            "url": "https://github.com/mailchain/mailchain/releases/download/v0.0.39/mailchain-v0.0.39-Windows-64bit.zip",
             "bin": [
                 "mailchain.exe"
             ],
-            "hash": "a4fe23ee5e263a5ebae255d7151ebdbb0a07a5dc9cf9db971c692c0007ba6548"
+            "hash": "18244b62f4962ccedd8bff86cd78d8463340573c6d904468ab6e96bf7596e636"
         }
     },
     "homepage": "https://mailchain.xyz",
